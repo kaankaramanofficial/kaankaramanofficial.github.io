@@ -5,13 +5,14 @@ I am currently working for my Master's degree in the field of electrical and ele
 
 ### Education
 Master of Science in [Electrical Electronics Engineering at METU](http://eee.metu.edu.tr/), 2021 
-(CGPA: 3.79/4.00)
+- CGPA: 3.79/4.00
+- Supervisor: [Prof. Dr. A. Aydın Alatan](https://eee.metu.edu.tr/personel/aydin-alatan)
 
 Double Major in [Physics at METU](http://www.physics.metu.edu.tr/), 2017 
-(CGPA: 3.67/4.00)
+- CGPA: 3.67/4.00
 
 Bachelor of Science in [Electrical Electronics Engineering at METU](http://eee.metu.edu.tr/), 2017 
-(CGPA: 3.81/4.00)
+- CGPA: 3.81/4.00
 
 ### Links
 - [Twitter](https://twitter.com/_KaanKaraman)
