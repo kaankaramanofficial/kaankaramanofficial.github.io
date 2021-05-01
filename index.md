@@ -1,7 +1,7 @@
 ### About
 I am currently working for my Master's degree in the field of electrical and electronics engineering (EEE) at [Middle East Technical University (METU)](https://www.metu.edu.tr/), located in Ankara, Turkey as well as have been working in the [ASELSAN](https://www.aselsan.com.tr/) [Research Center](https://www.youtube.com/watch?v=PSfxlxbzGqc&ab_channel=AselsanTV) as a research engineer to gain experience in topics such as computer vision and deep learning since 2017. My thesis focuses on fine-grained image retrieval via deep metric learning under the supervision of [Prof. Dr. A. Aydın Alatan](https://eee.metu.edu.tr/personel/aydin-alatan). Before that, I received my two Bachelor of Science degrees with high honors in both EEE and Physics departments from METU. My research interests include but are not limited to computer vision, deep metric learning, and graph signal processing. 
 
-Please click [here](./CV_Kaan_Karaman.pdf) for my resume.
+Please click [here](./KaanKaramanCV.pdf) for my resume.
 
 ### Education
 Master of Science in [Electrical Electronics Engineering at METU](http://eee.metu.edu.tr/), 2021
@@ -25,6 +25,7 @@ Double Major in [Physics at METU](http://www.physics.metu.edu.tr/), 2017
 
 ### Publications
 - **Karaman, K.**, & Alatan, A. A. (2021, September). Metu loss: metric learning with entangled triplet unified loss. In 28th IEEE International Conference on Image Processing (ICIP). IEEE. **(submitted)**
+- Kayabasi, A., **Karaman, K.**, & Akkaya, I. B. (2021, April). Comparison of distance metric learning methods against label noise for fine-grained recognition. In Automatic Target Recognition XXXI (Vol. 11729, p. 117290F). International Society for Optics and Photonics (SPIE).
 - Akkaya I. B., & **Karaman, K.** (2020, May). A robust technique for real-time face verification with a generative network. In Real-Time Image Processing and Deep Learning (Vol. 11401, p. 1140107). International Society for Optics and Photonics (SPIE). 
 - **Karaman, K.**, Akkaya I. B., Solmaz B., & Alatan A. A. (2020, October). A face recognition technique by representative learning with the quadruplets. In 28th Signal Processing and Communications Applications Conference (SIU). IEEE.
 - **Karaman, K.**, Akkaya I. B., & Alatan A. A. (2020, October). Metric learning with quadruplets on non-hierarchical labeled datasets. In 28th Signal Processing and Communications Applications Conference (SIU). IEEE. 
