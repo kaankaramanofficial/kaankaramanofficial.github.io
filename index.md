@@ -31,7 +31,7 @@ Double Major in [Physics at METU](http://www.physics.metu.edu.tr/), 2017
 - [Linkedin](https://www.linkedin.com/in/kaan-karaman/)
 
 ### Publications
-- **Karaman, K.**,  Garnot, V. S. F. & Wegner, J. D. (2023, September). Deforestation detection in the amazon with sentinel-1 sar image time series. ISPRS Geospatial Week 2023. **(Accepted)**
+- **Karaman, K.**,  Garnot, V. S. F. & Wegner, J. D. (2023, September). [Deforestation detection in the amazon with sentinel-1 sar image time series](https://isprs-annals.copernicus.org/articles/X-1-W1-2023/835/2023/). ISPRS Geospatial Week 2023.
 - **Karaman, K.**, & Alatan, A. A. (2021, September). [Metu loss: metric learning with entangled triplet unified loss](https://ieeexplore.ieee.org/abstract/document/9506388). In 28th IEEE International Conference on Image Processing (ICIP). IEEE. 
 - Kayabasi, A., **Karaman, K.**, & Akkaya, I. B. (2021, April). [Comparison of distance metric learning methods against label noise for fine-grained recognition](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11729/117290F/Comparison-of-distance-metric-learning-methods-against-label-noise-for/10.1117/12.2587246.full). In Automatic Target Recognition XXXI (Vol. 11729, p. 117290F). International Society for Optics and Photonics (SPIE).
 - Akkaya I. B., & **Karaman, K.** (2020, May). [A robust technique for real-time face verification with a generative network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11401/1140107/A-robust-technique-for-real-time-face-verification-with-a/10.1117/12.2558526.full). In Real-Time Image Processing and Deep Learning (Vol. 11401, p. 1140107). International Society for Optics and Photonics (SPIE). 
